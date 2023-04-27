@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">It's so nice to meet you</h3>
+<h3 align="center">It's nice to meet you</h3>
 <h4 align="center">Check out more of my stuff here https://leqndev.com/</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binnieslite&label=Profile%20views&color=0e75b6&style=flat" alt="binnieslite" /> </p>
